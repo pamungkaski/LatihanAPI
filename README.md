@@ -1,6 +1,7 @@
 #API Excercise
 ##Technology Use
 Ruby Version 2.3.1p112
+
 gem 2.6.8
 ###Framework
 Rails 5.0.1

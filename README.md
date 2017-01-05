@@ -1,24 +1,13 @@
-# README
+API Excercise
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby Version 2.3.1p112
 
-Things you may want to cover:
+Rails 5.0.1
 
-* Ruby version
+gem 2.6.8
 
-* System dependencies
+Sublime Text 3 IDE
 
-* Configuration
+API from  themoviedb.org
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+JSON ruby gem library for parsing the API

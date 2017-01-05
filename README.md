@@ -1,11 +1,10 @@
 #API Excercise
-
+##Technology Use
 Ruby Version 2.3.1p112
-
-Rails 5.0.1
-
 gem 2.6.8
-
+###Framework
+Rails 5.0.1
+###IDE
 Sublime Text 3 IDE
 
 API from  themoviedb.org

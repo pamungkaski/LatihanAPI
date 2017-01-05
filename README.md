@@ -6,7 +6,7 @@ gem 2.6.8
 Rails 5.0.1
 ###IDE
 Sublime Text 3 IDE
-
+##API Use
 API from  themoviedb.org
-
+##API Parsing
 JSON ruby gem library for parsing the API

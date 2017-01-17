@@ -1,6 +1,1 @@
-<% @movie["results"].each do |mov| %>
-	<p> <%= image_tag("https://image.tmdb.org/t/p/w185#{mov['poster_path']}")%><br>
-	<%= mov["original_title"] %><br>
-		<%= mov["overview"] %>
-	</p>
-<% end %>
+<%= render 'list_film' %>

@@ -1,6 +1,6 @@
-<% @movie["results"].each do |mov| %>
+<% @movie["results"].each_with_index do |mov, nom| %>
 	<p> <%= image_tag("https://image.tmdb.org/t/p/w185#{mov['poster_path']}")%><br>
-	<%= mov["original_title"] %><br>
+	<%=link_to "#{mov['original_title']}", welcome_url(nom) %><br>
 		<%= mov["overview"] %>
 	</p>
 <% end %>
